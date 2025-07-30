@@ -1,6 +1,6 @@
 # Snake Game
 
-This project is a simple implementation of the classic Snake game using Python and Pygame.
+This project is a simple implementation of the classic Snake game using Python and Pygame for getting my kids into programming.
 
 ## Getting Started
 
